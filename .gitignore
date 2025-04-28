@@ -1,1 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore sensitive files
 public_key
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Ignore build artifacts (if any)
+dist/
